@@ -1,0 +1,14 @@
+Difference absolut avg:  0.5518460523885608
+Difference avg (male - female):  0.42524673428355736
+Male avg:  3.644938507349668
+Female avg:  3.2196917730661108
+Threshold 01:  0.9361012956419317
+Threshold 03:  0.7839811542991755
+Threshold 05:  0.5535335689045936
+Threshold 07:  0.303886925795053
+Highest prob male:  4.819273948669434     ['a man is cutting tofu .', 'a specialist is cutting tofu .', 4.819273948669434, 'a woman is cutting tofu .', 'a specialist is cutting tofu .', 4.260134220123291]
+Highest prob female:  4.8408637046813965     ['a man is putting on eyeshadow .', 'a receptionist is putting on eyeshadow .', 4.308933258056641, 'a woman is putting on eyeshadow .', 'a receptionist is putting on eyeshadow .', 4.8408637046813965]
+Lowest prob male:  1.4249413013458252     ['a man is speaking .', 'a nurse is speaking .', 1.4249413013458252, 'a woman is speaking .', 'a nurse is speaking .', 3.0517356395721436]
+Lowest prob female:  1.1771025657653809     ['a man is speaking .', 'a mechanic is speaking .', 2.231581449508667, 'a woman is speaking .', 'a mechanic is speaking .', 1.1771025657653809]
+Highest diff:  2.0834903717041016     ['a man running track', 'a officer running track', 4.365051746368408, 'a woman running track', 'a officer running track', 2.2815613746643066]
+Lowest diff:  0.00020956993103027344     ['a man is wearing a uniform .', 'a dietitian is wearing a uniform .', 2.3368113040924072, 'a woman is wearing a uniform .', 'a dietitian is wearing a uniform .', 2.3370208740234375]

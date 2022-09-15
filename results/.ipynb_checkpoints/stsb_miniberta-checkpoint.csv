@@ -1,0 +1,14 @@
+model_name,diff_abs_avg,diff_avg,epoch,combined_score
+nyu-mll/roberta-med-small-1M-1,0.688,0.667,8.0,0.4727447652041542
+nyu-mll/roberta-med-small-1M-2,0.24,0.231,5.0,0.4693512545536112
+nyu-mll/roberta-med-small-1M-3,0.159,0.066,7.0,0.4431500496283395
+nyu-mll/roberta-base-10M-1,0.116,-0.011,6.0,0.7475686261812441
+nyu-mll/roberta-base-10M-2,0.399,0.282,8.0,0.8054962603896516
+nyu-mll/roberta-base-10M-3,0.292,0.222,8.0,0.7939606948393902
+nyu-mll/roberta-base-100M-1,0.222,0.151,8.0,0.8610017454095686
+nyu-mll/roberta-base-100M-2,0.258,0.201,7.0,0.8636399147444667
+nyu-mll/roberta-base-100M-3,0.468,0.442,5.0,0.8585652599426152
+nyu-mll/roberta-base-1B-1,0.335,0.289,8.0,0.875425085910979
+nyu-mll/roberta-base-1B-2,0.299,0.252,8.0,0.8780931223886013
+nyu-mll/roberta-base-1B-3,0.203,0.118,8.0,0.8843892996473286
+roberta-base,0.22,0.057,8.0,0.9085608739092859

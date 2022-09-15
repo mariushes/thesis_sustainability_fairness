@@ -1,0 +1,132 @@
+0it [00:00, ?it/s]     Add Debias loss: tensor(2.0302, device='cuda:0')
+1it [01:59, 119.05s/it]Add Debias loss: tensor(2.2770, device='cuda:0')
+2it [03:53, 116.40s/it]Add Debias loss: tensor(2.1302, device='cuda:0')
+3it [05:04, 95.84s/it]Add Debias loss: tensor(2.5921, device='cuda:0')
+4it [06:28, 90.95s/it]Add Debias loss: tensor(1.9775, device='cuda:0')
+5it [07:58, 90.62s/it]Add Debias loss: tensor(2.3759, device='cuda:0')
+2022/06/15 19:29:14 - INFO - Distillation -  Global step: 7, epoch step:7
+2022/06/15 19:29:14 - INFO - Distillation -  Global step: 7, epoch step:7
+                      Add Debias loss: tensor(2.0264, device='cuda:0')
+7it [10:59, 90.79s/it]Add Debias loss: tensor(2.2255, device='cuda:0')
+8it [12:39, 93.67s/it] Add Debias loss: tensor(2.2796, device='cuda:0')
+9it [14:34, 100.43s/it] Add Debias loss: tensor(2.2938, device='cuda:0')
+10it [16:29, 104.85s/it]Add Debias loss: tensor(2.2354, device='cuda:0')
+11it [17:53, 98.42s/it] Add Debias loss: tensor(2.4280, device='cuda:0')
+12it [19:58, 106.42s/it]Add Debias loss: tensor(2.1684, device='cuda:0')
+2022/06/15 19:42:21 - INFO - Distillation -  Global step: 14, epoch step:14
+2022/06/15 19:42:21 - INFO - Distillation -  Global step: 14, epoch step:14
+                        Add Debias loss: tensor(2.0704, device='cuda:0')
+14it [24:06, 117.41s/it]Add Debias loss: tensor(2.1881, device='cuda:0')
+15it [25:53, 114.43s/it]Add Debias loss: tensor(2.2814, device='cuda:0')
+16it [27:50, 115.09s/it]Add Debias loss: tensor(2.5500, device='cuda:0')
+17it [30:28, 127.88s/it]Add Debias loss: tensor(2.4550, device='cuda:0')
+18it [33:25, 142.64s/it]Add Debias loss: tensor(2.1725, device='cuda:0')
+19it [34:49, 125.23s/it]Add Debias loss: tensor(2.1703, device='cuda:0')
+2022/06/15 19:56:46 - INFO - Distillation -  Global step: 21, epoch step:21
+2022/06/15 19:56:46 - INFO - Distillation -  Global step: 21, epoch step:21
+                        Add Debias loss: tensor(2.1997, device='cuda:0')
+21it [38:32, 118.08s/it]Add Debias loss: tensor(1.7914, device='cuda:0')
+22it [40:38, 120.62s/it]Add Debias loss: tensor(2.4126, device='cuda:0')
+23it [41:52, 106.48s/it]Add Debias loss: tensor(2.4497, device='cuda:0')
+24it [42:47, 91.21s/it] Add Debias loss: tensor(2.3482, device='cuda:0')
+25it [45:25, 111.18s/it]Add Debias loss: tensor(2.4526, device='cuda:0')
+26it [46:44, 101.51s/it]Add Debias loss: tensor(2.3999, device='cuda:0')
+2022/06/15 20:08:23 - INFO - Distillation -  Global step: 28, epoch step:28
+2022/06/15 20:08:23 - INFO - Distillation -  Global step: 28, epoch step:28
+                        Add Debias loss: tensor(2.0017, device='cuda:0')
+28it [50:09, 101.59s/it]Add Debias loss: tensor(2.5869, device='cuda:0')
+29it [52:17, 109.65s/it]Add Debias loss: tensor(2.6144, device='cuda:0')
+30it [53:33, 99.49s/it]Add Debias loss: tensor(2.2906, device='cuda:0')
+31it [55:09, 98.52s/it]Add Debias loss: tensor(2.4569, device='cuda:0')
+32it [56:27, 92.47s/it]Add Debias loss: tensor(2.5330, device='cuda:0')
+33it [58:08, 95.00s/it]Add Debias loss: tensor(2.4342, device='cuda:0')
+2022/06/15 20:18:58 - INFO - Distillation -  Global step: 35, epoch step:35
+2022/06/15 20:18:58 - INFO - Distillation -  Global step: 35, epoch step:35
+                         Add Debias loss: tensor(2.2167, device='cuda:0')
+35it [1:00:43, 86.27s/it]Add Debias loss: tensor(2.5212, device='cuda:0')
+36it [1:02:25, 90.97s/it]Add Debias loss: tensor(2.2293, device='cuda:0')
+37it [1:03:19, 79.82s/it]Add Debias loss: tensor(2.0661, device='cuda:0')
+38it [1:05:46, 99.87s/it] Add Debias loss: tensor(2.1873, device='cuda:0')
+39it [1:07:37, 103.48s/it]Add Debias loss: tensor(2.0027, device='cuda:0')
+40it [1:08:45, 92.58s/it]Add Debias loss: tensor(2.3684, device='cuda:0')
+2022/06/15 20:30:37 - INFO - Distillation -  Global step: 42, epoch step:42
+2022/06/15 20:30:37 - INFO - Distillation -  Global step: 42, epoch step:42
+                          Add Debias loss: tensor(2.0675, device='cuda:0')
+42it [1:12:23, 101.62s/it]Add Debias loss: tensor(2.1681, device='cuda:0')
+43it [1:13:27, 90.48s/it]Add Debias loss: tensor(2.2868, device='cuda:0')
+44it [1:15:05, 92.63s/it]Add Debias loss: tensor(2.5479, device='cuda:0')
+45it [1:16:32, 91.05s/it]Add Debias loss: tensor(2.4089, device='cuda:0')
+46it [1:18:12, 93.56s/it]Add Debias loss: tensor(2.4801, device='cuda:0')
+47it [1:19:41, 92.32s/it]Add Debias loss: tensor(2.1506, device='cuda:0')
+2022/06/15 20:40:59 - INFO - Distillation -  Global step: 49, epoch step:49
+2022/06/15 20:40:59 - INFO - Distillation -  Global step: 49, epoch step:49
+                         Add Debias loss: tensor(2.0056, device='cuda:0')
+49it [1:22:45, 92.54s/it]Add Debias loss: tensor(2.2930, device='cuda:0')
+50it [1:24:10, 90.46s/it] Add Debias loss: tensor(2.2744, device='cuda:0')
+51it [1:27:09, 117.09s/it]Add Debias loss: tensor(1.9259, device='cuda:0')
+52it [1:29:23, 121.92s/it]Add Debias loss: tensor(2.3236, device='cuda:0')
+53it [1:29:57, 95.80s/it] Add Debias loss: tensor(2.5316, device='cuda:0')
+54it [1:31:51, 101.03s/it]Add Debias loss: tensor(2.4526, device='cuda:0')
+2022/06/15 20:53:20 - INFO - Distillation -  Global step: 56, epoch step:56
+2022/06/15 20:53:20 - INFO - Distillation -  Global step: 56, epoch step:56
+                         Add Debias loss: tensor(2.0414, device='cuda:0')
+56it [1:35:05, 99.36s/it]Add Debias loss: tensor(1.6674, device='cuda:0')
+57it [1:36:28, 94.56s/it]Add Debias loss: tensor(2.1095, device='cuda:0')
+58it [1:37:55, 92.32s/it]Add Debias loss: tensor(2.1321, device='cuda:0')
+59it [1:39:35, 94.42s/it]Add Debias loss: tensor(2.0728, device='cuda:0')
+60it [1:40:37, 84.82s/it]Add Debias loss: tensor(1.7465, device='cuda:0')
+61it [1:42:29, 93.03s/it]Add Debias loss: tensor(2.2272, device='cuda:0')
+2022/06/15 21:04:09 - INFO - Distillation -  Global step: 63, epoch step:63
+2022/06/15 21:04:09 - INFO - Distillation -  Global step: 63, epoch step:63
+                         Add Debias loss: tensor(2.0779, device='cuda:0')
+63it [1:45:54, 99.78s/it]Add Debias loss: tensor(1.8834, device='cuda:0')
+64it [1:47:14, 93.86s/it]Add Debias loss: tensor(2.0327, device='cuda:0')
+65it [1:48:45, 92.90s/it] Add Debias loss: tensor(2.3251, device='cuda:0')
+66it [1:50:46, 101.45s/it]Add Debias loss: tensor(1.6674, device='cuda:0')
+67it [1:52:43, 106.06s/it]Add Debias loss: tensor(1.8698, device='cuda:0')
+68it [1:54:44, 110.56s/it]Add Debias loss: tensor(1.9162, device='cuda:0')
+2022/06/15 21:16:50 - INFO - Distillation -  Global step: 70, epoch step:70
+2022/06/15 21:16:50 - INFO - Distillation -  Global step: 70, epoch step:70
+                          Add Debias loss: tensor(1.9536, device='cuda:0')
+70it [1:58:36, 112.98s/it]Add Debias loss: tensor(2.2234, device='cuda:0')
+71it [2:00:39, 116.13s/it]Add Debias loss: tensor(1.9817, device='cuda:0')
+72it [2:01:42, 100.27s/it]Add Debias loss: tensor(1.7094, device='cuda:0')
+73it [2:03:45, 107.00s/it]Add Debias loss: tensor(1.9443, device='cuda:0')
+74it [2:05:04, 98.47s/it]Add Debias loss: tensor(1.6223, device='cuda:0')
+75it [2:06:13, 89.78s/it]Add Debias loss: tensor(1.4144, device='cuda:0')
+2022/06/15 21:26:39 - INFO - Distillation -  Global step: 77, epoch step:77
+2022/06/15 21:26:39 - INFO - Distillation -  Global step: 77, epoch step:77
+                         Add Debias loss: tensor(1.8877, device='cuda:0')
+77it [2:08:25, 75.28s/it]Add Debias loss: tensor(1.6590, device='cuda:0')
+78it [2:10:25, 88.71s/it]Add Debias loss: tensor(1.5913, device='cuda:0')
+79it [2:11:55, 89.13s/it]Add Debias loss: tensor(1.5870, device='cuda:0')
+80it [2:13:13, 85.96s/it]Add Debias loss: tensor(1.5480, device='cuda:0')
+81it [2:15:01, 92.46s/it]Add Debias loss: tensor(1.4530, device='cuda:0')
+82it [2:16:51, 97.61s/it] Add Debias loss: tensor(1.3314, device='cuda:0')
+2022/06/15 21:38:57 - INFO - Distillation -  Global step: 84, epoch step:84
+2022/06/15 21:38:57 - INFO - Distillation -  Global step: 84, epoch step:84
+                          Add Debias loss: tensor(1.7478, device='cuda:0')
+84it [2:20:42, 106.98s/it]Add Debias loss: tensor(1.7633, device='cuda:0')
+85it [2:22:47, 112.20s/it]Add Debias loss: tensor(1.6141, device='cuda:0')
+86it [2:24:51, 115.98s/it]Add Debias loss: tensor(1.4965, device='cuda:0')
+87it [2:27:10, 122.69s/it]Add Debias loss: tensor(1.4666, device='cuda:0')
+88it [2:28:49, 115.66s/it]Add Debias loss: tensor(1.6342, device='cuda:0')
+89it [2:30:37, 113.29s/it]Add Debias loss: tensor(1.4815, device='cuda:0')
+2022/06/15 21:52:27 - INFO - Distillation -  Global step: 91, epoch step:91
+2022/06/15 21:52:27 - INFO - Distillation -  Global step: 91, epoch step:91
+                          Add Debias loss: tensor(1.4372, device='cuda:0')
+91it [2:34:12, 109.75s/it]Add Debias loss: tensor(1.3132, device='cuda:0')
+92it [2:35:56, 107.98s/it]Add Debias loss: tensor(1.5349, device='cuda:0')
+93it [2:37:19, 100.59s/it]Add Debias loss: tensor(1.4785, device='cuda:0')
+94it [2:38:07, 84.69s/it]Add Debias loss: tensor(1.3273, device='cuda:0')
+95it [2:39:29, 83.81s/it] Add Debias loss: tensor(1.3572, device='cuda:0')
+96it [2:41:56, 102.77s/it]Add Debias loss: tensor(1.3618, device='cuda:0')
+2022/06/15 22:03:49 - INFO - Distillation -  Global step: 98, epoch step:98
+2022/06/15 22:03:49 - INFO - Distillation -  Global step: 98, epoch step:98
+                          Add Debias loss: tensor(1.1317, device='cuda:0')
+98it [2:45:35, 104.94s/it]Add Debias loss: tensor(1.5084, device='cuda:0')
+99it [2:46:52, 96.63s/it] Add Debias loss: tensor(1.1367, device='cuda:0')
+100it [2:48:30, 97.03s/it]Add Debias loss: tensor(1.3169, device='cuda:0')
+101it [2:49:53, 92.93s/it]Add Debias loss: tensor(1.3024, device='cuda:0')
+102it [2:51:13, 89.00s/it]Add Debias loss: tensor(1.4220, device='cuda:0')
+103it [2:53:07, 96.63s/it]Add Debias loss: tensor(1.1094, device='cuda:0')
